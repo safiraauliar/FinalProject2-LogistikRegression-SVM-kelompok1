@@ -1,4 +1,8 @@
 # FinalProject2-LogistikRegression-SVM-kelompok1
+## Nama anggota kelompok :
+1. Muhammad Arif Alfiani (PYTN-KS03-001)
+2. Reza Pradana (PYTN-KS03-002)
+3. Safira Aulia Rohmah (PYTN-KS03-009)
 # Project Overview
 Dataset yang digunakan pada projek ini adalah dataset publik yang tersedia diwebsite kaggle, untuk mendapatkan dataset dapat ditemukan melalui link <a href="https://www.kaggle.com/jsphyg/weather-dataset-rattle-package"><b> klik disini</b></a>.  Dataset ini memiliki 23 atribut yang berisi informasi mengenai record data hujan harian selama 10 tahun di Australia. Tujuan utama dari penelitian ini adalah untuk memprediksi cuaca apakah hari selanjutnya hujan atau tidak dengan mengimplementasikan analisa prediction menggunakan algoritma Logistic Regression dan Support Vector Machine (SVM). Sebelum melakukan modeling perlu dilakukan processing data agar model prediksi yang dihasilkan memiliki tingkat akurasi yang optimal.
 #### Final Project 2 ini dibuat guna mengevaluasi konsep Regression sebagai berikut:
